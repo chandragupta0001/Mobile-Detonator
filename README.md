@@ -1,1 +1,1 @@
-# Mobile-Detonator
+# only for education purpose
